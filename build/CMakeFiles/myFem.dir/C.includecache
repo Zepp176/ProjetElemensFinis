@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/victor/Documents/Etudes/Elements_finis/Motor/src/fem.h
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+assert.h
+-
+
+/home/victor/Documents/Etudes/Elements_finis/Motor/src/motor.c
+motor.h
+/home/victor/Documents/Etudes/Elements_finis/Motor/src/motor.h
+
+/home/victor/Documents/Etudes/Elements_finis/Motor/src/motor.h
+fem.h
+/home/victor/Documents/Etudes/Elements_finis/Motor/src/fem.h
+

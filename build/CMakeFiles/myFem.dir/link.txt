@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/myFem.dir/src/fem.c.o CMakeFiles/myFem.dir/src/glfem.c.o CMakeFiles/myFem.dir/src/motor.c.o CMakeFiles/myFem.dir/src/main.c.o  -o myFem  deps/bov/lib/libbov.a /usr/lib/x86_64-linux-gnu/libGL.so deps/bov/deps/glad/libglad.a deps/bov/deps/glfw/src/libglfw3.a /usr/lib/x86_64-linux-gnu/librt.so -lm -ldl /usr/lib/x86_64-linux-gnu/libX11.so -lpthread 
